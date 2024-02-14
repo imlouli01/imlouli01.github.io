@@ -1,0 +1,53 @@
+    body {
+        background-color: rgb(201, 189, 131);
+    }
+
+    table {
+        border-collapse: collapse;
+    }
+
+    th,td {
+        width: 200px;
+        border: 1px solid black;
+        padding: 10px;
+        text-align: center;
+    }
+    div h1 {
+        font-weight: bold;
+        font-style: italic;
+        text-align: center;
+        text-decoration: underline;
+        text-transform: capitalize;
+    }
+    
+    div {
+        margin: 50px;
+        font-family:  Verdana, sans-serif;
+        text-transform: lowercase;
+    }
+    .img {
+       margin-left: 100px;
+       margin-top: auto;
+       height:200px; 
+       width:300px;
+    }
+    
+    .img1 {
+       margin-right: 50px;
+       margin-top: auto;
+       height:200px;
+       width:300px;
+    }
+    div h3 {
+        text-align: center;
+        text-indent: -1000px;
+        text-decoration: underline;
+        text-transform: capitalize;
+    }
+    span {
+        text-decoration: line-through;
+    }
+    .lo {
+        text-align: center;
+    }
+    
